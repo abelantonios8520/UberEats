@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431933742661",
+    "firebase_url": "https://ubereats-ebec9.firebaseio.com",
+    "project_id": "ubereats-ebec9",
+    "storage_bucket": "ubereats-ebec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431933742661:android:76270235f800191260cd2c",
+        "android_client_info": {
+          "package_name": "com.abelsalcedo.ubereats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431933742661-vbudh9ihsgpq3vrf1pp6d5ceeo20e7g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abelsalcedo.ubereats",
+            "certificate_hash": "1f14b3dba564ea87b0ac45ec84795542ea357a32"
+          }
+        },
+        {
+          "client_id": "431933742661-qp6dukqna9nic8qas125gqed8r0psh9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_iwpIHZQX6slFqsZY9Ari3q6oUHre3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431933742661-qp6dukqna9nic8qas125gqed8r0psh9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
